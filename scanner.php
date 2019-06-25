@@ -1,2 +1,71 @@
-<?php ${"\x47\x4c\x4f\x42A\x4c\x53"}["te\x67\x77z\x6c\x62\x6b\x6c"]="r\x65\x73p\x6fn\x73\x65";${"\x47\x4cO\x42A\x4cS"}["\x73fyv\x78\x66\x6b\x72\x72\x78"]="\x63\x68";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x70\x68\x6b\x79\x61\x6fr\x72\x62\x65c"]="akh\x69r";${"\x47\x4cO\x42\x41LS"}["x\x73c\x73p\x62\x72\x73\x6e\x6a"]="\x61wa\x6c";${"G\x4cOB\x41\x4cS"}["\x65\x64\x78q\x67s\x71r\x72e\x6b"]="\x68\x6fs\x74\x73";${"\x47L\x4fB\x41L\x53"}["\x77\x75\x6e\x77\x61\x6bob\x63y\x6c"]="a\x6e\x75";${"\x47\x4cOB\x41L\x53"}["\x77v\x61\x78dc\x79\x66\x6bs"]="\x70\x65mba\x74as1";${"GLO\x42AL\x53"}["d\x72\x70y\x6e\x6d"]="\x70e\x6d\x62\x61\x74\x61s";include"\x6bo\x6e\x66\x69gur\x61si\x2ephp";${"G\x4c\x4f\x42AL\x53"}["kxi\x69i\x72"]="a\x6eu";${"G\x4c\x4fB\x41L\x53"}["\x79cz\x79\x66d"]="\x61nu";${"G\x4c\x4f\x42\x41L\x53"}["\x73\x68\x6c\x76\x77\x77kp"]="\x68\x6fs\x74s";unlink("r\x65spo\x6e\x73\x65.\x74\x78\x74");${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x79\x63\x7a\x79\x66\x64"]}=fopen("r\x65\x73\x70o\x6e\x73\x65.\x74\x78t","a");fputs(${${"\x47\x4c\x4fB\x41\x4cS"}["\x6b\x78\x69\x69\x69\x72"]},"\x53c\x72i\x70\x74 By \x41\x72\x75dj\x69"."\n");$xqjvvlgpdhs="\x70\x65\x6d\x62a\x74\x61\x731";${${"G\x4cO\x42AL\x53"}["\x64\x72p\x79\x6e\x6d"]}="\n"."--------------------"."\n";${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x77v\x61\x78\x64\x63y\x66\x6b\x73"]}="--------------------"."\n";fputs(${${"\x47LO\x42A\x4c\x53"}["\x77\x75n\x77akob\x63\x79\x6c"]},${$xqjvvlgpdhs});for(${${"G\x4c\x4fB\x41\x4c\x53"}["\x65d\x78\x71g\x73\x71\x72\x72e\x6b"]}=${${"GLO\x42AL\x53"}["\x78\x73cs\x70\x62r\x73\x6e\x6a"]};${${"G\x4cO\x42\x41\x4cS"}["s\x68\x6c\x76\x77w\x6bp"]}<=${${"\x47\x4cO\x42\x41\x4cS"}["\x70\x68\x6b\x79\x61\x6f\x72\x72\x62\x65c"]};${${"\x47\x4cO\x42\x41\x4cS"}["\x65\x64\x78\x71\x67\x73q\x72rek"]}++){$rktpptci="\x63\x68";$host="$ip.$hosts";$gbdymfgpepx="\x63\x68";${"\x47\x4c\x4fBA\x4c\x53"}["eklm\x6e\x64sx"]="\x63\x68";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x6b\x63\x65\x66\x6ag\x63a\x70\x7a\x76"]="\x63\x68";${${"G\x4cO\x42\x41L\x53"}["\x73\x66\x79v\x78f\x6b\x72\x72\x78"]}=curl_init();$gvoffuuwda="c\x68";$acbuxwglvtdk="c\x68";curl_setopt(${${"\x47L\x4f\x42\x41\x4c\x53"}["e\x6b\x6c\x6dnd\x73\x78"]},CURLOPT_URL,"$host");${"G\x4cO\x42A\x4c\x53"}["xt\x76x\x79\x71\x6a\x6a"]="\x68\x61s\x69\x6c";curl_setopt(${$gvoffuuwda},CURLOPT_PORT,"$port");curl_setopt(${${"\x47LO\x42A\x4cS"}["k\x63\x65fjgc\x61\x70zv"]},CURLOPT_HEADER,true);${"\x47\x4c\x4fB\x41\x4c\x53"}["m\x62s\x6f\x64\x6fe"]="anu";${"G\x4c\x4fB\x41\x4c\x53"}["\x64dld\x74\x73\x6f\x6f\x6ee"]="\x74\x69\x6d\x65\x6f\x75\x74";${"\x47\x4c\x4f\x42\x41\x4c\x53"}["\x6aozh\x63\x67ad\x77\x6c\x70"]="\x72e\x73\x70ons\x65";curl_setopt(${$gbdymfgpepx},CURLOPT_RETURNTRANSFER,true);curl_setopt(${${"\x47\x4cOBA\x4c\x53"}["\x73f\x79\x76xf\x6br\x72\x78"]},CURLOPT_TIMEOUT,${${"\x47\x4cO\x42\x41\x4cS"}["d\x64\x6cdt\x73\x6f\x6f\x6ee"]});curl_setopt(${${"\x47L\x4fB\x41LS"}["s\x66\x79v\x78\x66\x6b\x72\x72\x78"]},CURLOPT_COOKIEJAR,"c\x6f\x6f\x6b\x69\x65.tx\x74");curl_setopt(${$acbuxwglvtdk},CURLOPT_COOKIEFILE,"c\x6f\x6f\x6bie\x2e\x74\x78t");$shrjgltg="r\x65\x73\x70o\x6e\x73e";curl_setopt(${$rktpptci},CURLOPT_FOLLOWLOCATION,true);$kmeegqpndok="has\x69\x6c";$fpsvcpkfo="\x61\x6e\x75";${$shrjgltg}=curl_exec(${${"\x47\x4cO\x42\x41\x4c\x53"}["\x73\x66y\x76\x78\x66\x6b\x72\x72\x78"]});$goaqlbroy="\x68\x61sil\x31";$rjkeyeo="\x72\x65\x73\x70o\x6e\x73\x65";${${"\x47\x4cO\x42\x41\x4c\x53"}["\x77\x75n\x77\x61k\x6fb\x63y\x6c"]}=fopen("\x72\x65s\x70o\x6ese.t\x78t","\x61");${$kmeegqpndok}=explode("\x3c",${${"\x47\x4cO\x42\x41\x4cS"}["te\x67\x77\x7a\x6cb\x6bl"]});${$goaqlbroy}=explode("S\x65\x72\x76\x65r",${$rjkeyeo});echo"$host"."\x20 - \x20".substr(${${"\x47\x4c\x4f\x42\x41\x4c\x53"}["j\x6fzh\x63\x67adw\x6cp"]},0,12)."\n";${"\x47L\x4f\x42\x41\x4c\x53"}["q\x77p\x77l\x63"]="\x61n\x75";fputs(${${"\x47\x4c\x4fBA\x4cS"}["\x71w\x70w\x6c\x63"]},$host);fputs(${${"\x47LO\x42A\x4c\x53"}["m\x62s\x6f\x64oe"]},${${"\x47L\x4fB\x41LS"}["\x64\x72py\x6em"]});fputs(${${"\x47\x4c\x4f\x42A\x4c\x53"}["\x77u\x6e\x77a\x6b\x6f\x62\x63\x79l"]},${${"\x47L\x4f\x42\x41\x4c\x53"}["\x78\x74\x76x\x79\x71\x6aj"]}[0]);fputs(${$fpsvcpkfo},${${"G\x4c\x4f\x42\x41\x4c\x53"}["\x77va\x78\x64c\x79\x66k\x73"]});}
-?>
+<?php
+///Created By Arudji
+///tools for scan response header
+///contact Email : lostarmy1211@gmail.com
+function alert(){
+echo system("clear");
+}
+$aman = alert();
+echo "\nLogin Succes\n";
+function proses(){
+$anu = fopen("response.txt", "a");
+fputs ($anu, "RESULT" . "\n");
+$pembatas = "\n" . "--------------------" . "\n";
+$pembatas1 = "--------------------" . "\n";
+fputs ($anu, $pembatas1);
+echo "---SCANNER---\n";
+echo "IP : ";
+$ip = trim(fgets(STDIN));
+echo "RANGE IP :";
+$ip0 = trim(fgets(STDIN));
+echo "RANGE IP : ";
+$range = trim(fgets(STDIN));
+echo "PORT : ";
+$port = trim(fgets(STDIN));
+echo "TIMEOUT : ";
+$timeout = trim(fgets(STDIN));
+echo "-------------\n";
+echo "SCAN DI MULAI\n";
+echo "-------------\n";
+$ip1 = explode("/", $ip0);
+$range1 = explode("/", $range);
+$port1 = explode("/", $port);
+for ($ipr = $ip1[0]; $ipr <= $ip1[1]; $ipr++){
+for ($hosts = $range1[0]; $hosts <= $range1[1]; $hosts++){
+$host = "$ip.$ipr.$hosts";
+foreach($port1 as $ports){
+$ch=curl_init();
+curl_setopt($ch, CURLOPT_URL, "$host");
+curl_setopt($ch, CURLOPT_PORT, "$ports");
+curl_setopt($ch, CURLOPT_HEADER, true);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_TIMEOUT, $timeout);
+curl_setopt($ch, CURLOPT_COOKIEJAR, 'cookie.txt');
+curl_setopt($ch, CURLOPT_COOKIEFILE, 'cookie.txt');
+curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+$response = curl_exec($ch);
+$anu = fopen("response.txt", "a");
+$hasil = explode("<", $response);
+$hasil1 = explode("Server", $response);
+echo "$host" . ":$ports" . "  -  " . substr($response, 0, 12) . "\n";
+$hostname = gethostbyaddr("$host");
+fputs ($anu, $pembatas);
+fputs ($anu, "ip : $host\n");
+fputs ($anu, "port : $ports\n");
+fputs ($anu, "hostname : $hostname\n");
+fputs ($anu, "$hasil[0]");
+fputs ($anu, $pembatas1);
+}
+}
+}
+echo "Scan Ulang = 1\n" . "keluar dari aplikasi = 2\n";
+echo "rescan/exit = ";
+$reload = trim(fgets(STDIN));
+system(clear);
+}
+$gas = proses();
+if($reload = 1){
+$gas = proses();}
+else{
+exit("terimakasih sudah menggunakan tools ini");
+}
